@@ -1,0 +1,31 @@
+body {
+    font-family: 'Caveat';
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    place-items: center;
+    display: grid;
+    height: 100vh;
+    background-color: #edecdf;
+
+}
+button{
+    font-family: 'Caveat'; 
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: #b6f0d7;
+    border-color: white;
+}
+
+.campo1{
+    background-color: #f7bce9;
+    padding: 40px;
+}
+
+.campo2{
+    background: #bce9f7;
+    padding: 40px;
+}
